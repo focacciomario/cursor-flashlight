@@ -16,7 +16,7 @@ export const insertNeededRules = ({ size }: { size: string }) => {
           circle ${size} at var(--cursorX) var(--cursorY),
           rgba(0,0,0,0) 0%,
           rgba(0,0,0,.5) 80%,
-          rgba(0,0,0,.75) 100%
+          rgba(0,0,0,.97) 100%
         );
       }
     }`),
